@@ -19,6 +19,6 @@ public class CalcPi {
 			calcPi = calcPi - 1.0/denominator;
 		}
 
-		System.out.println("pi, approximated: " + calcPi*4); 
+		System.out.println("pi, approximated:     " + calcPi*4); 
 	}
 }
