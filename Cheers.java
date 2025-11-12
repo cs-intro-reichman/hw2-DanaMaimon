@@ -25,7 +25,7 @@ public class Cheers {
                         }
                         else 
                         {
-                                aOrAn = "a";
+                                aOrAn = "a ";
                         }
                         System.out.println("Give me " + aOrAn + " " + letter + ": " + letter + "!");
                 }
